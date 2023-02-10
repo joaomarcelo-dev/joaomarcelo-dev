@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é João Marcelo e sou um desaenvolvedor WEB
+Meu nome é João Marcelo e sou um desaenvolvedor WEB. Atualmente estudando na [Trybe](https://www.betrybe.com/). Tenho 18 anos e sou morador de Santa Iês - MA.
 
 <br>
 

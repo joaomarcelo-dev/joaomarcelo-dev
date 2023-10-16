@@ -2,7 +2,7 @@
 
 ## Sobre mim 😊
 
-Meu nome é **João Marcelo**, sou um desenvolvedor WEB. Atualmente, estou estudando na [Trybe](https://www.betrybe.com/). Tenho 18 anos e sou morador de Santa Inês, MA. Desde pequeno, sempre fui apaixonado por tecnologia (sempre tive muita curiosidade sobre como as coisas funcionavam 😅) e aos 14 anos decidi que iria me tornar um desenvolvedor/programador.
+Sou um desenvolvedor WEB. Atualmente, estou estudando na [Trybe](https://www.betrybe.com/). Tenho 19 anos e sou morador de Santa Inês, MA. Desde pequeno, sempre fui apaixonado por tecnologia (sempre tive muita curiosidade sobre como as coisas funcionavam 😅) e aos 14 anos decidi que iria me tornar um desenvolvedor/programador.
 
 ## Links para minhas redes sociais
 
@@ -12,7 +12,7 @@ Meu nome é **João Marcelo**, sou um desenvolvedor WEB. Atualmente, estou estud
 
 ## Ferramentas e Stacks
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width="50%" />
 
 <br>
 <br>
@@ -24,8 +24,37 @@ Meu nome é **João Marcelo**, sou um desenvolvedor WEB. Atualmente, estou estud
 </p>
 
 - Utilizo algumas das ferramentas mais populares do mercado, como por exemplo:
-  - **ReactJS**: Framework desenvolvido pelo Facebook com o intuito de melhorar a performance e a produtividade do desenvolvedor.
-  - **NextJS**: Biblioteca criada pela Zeit que otimiza ainda mais o uso do **ReactJS**.
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h3>Front-End</h3>
+    <ul>
+      <li><strong>HTML</strong>: HTML é a linguagem de marcação utilizada para a construção do "esqueleto" da página Web.</li>
+      <li><strong>CSS</strong>: CSS é uma linguagem de estilização utilizada para "dar forma" à estrutura do HTML.</li>
+      <li><strong>JavaScript</strong>: O JS é uma linguagem de programação que pode dar funcionalidades à aplicação Web.</li>
+      <li><strong>Redux</strong>: Redux é uma ferramenta de gerenciamento de estado global para a aplicação.</li>
+      <li><strong>Jest | RTL</strong>: Jest e RTL são ferramentas de teste que garantem que a sua aplicação terá um funcionamento adequado.</li>
+      <li><strong>ReactJS</strong>: Framework desenvolvido pelo Facebook com o intuito de melhorar a performance e a produtividade do desenvolvedor.</li>
+      <li><strong>NextJS</strong>: Biblioteca desenvolvida para agilizar a produtividade do desenvolvedor junto do <strong>ReactJS</strong>.</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1;">
+    <h3>Back-End</h3>
+    <ul>
+      <li><strong>Node.JS</strong>: O Node é um compilador de código JS.</li>
+      <li><strong>Prisma ORM</strong>: Ferramenta desenvolvida para acelerar a produtividade no desenvolvimento back-end e a conectividade com o banco de dados.</li>
+      <li><strong>Sequelize ORM</strong>: Ferramenta parecida com...</li>
+      <li><strong>Express</strong>: Ferramenta utilizada no Node para a criação de APIs.</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1;">
+    <h3>Mobile</h3>
+    <ul>
+      <li><strong>React Native</strong>: Framework de desenvolvimento mobile que utiliza o JS como base.</li>
+    </ul>
+  </div>
+</div>
 
 <!-- GITHUB STATUS -->
 <div align="center">
@@ -55,6 +84,5 @@ Meu nome é **João Marcelo**, sou um desenvolvedor WEB. Atualmente, estou estud
   
   ![](https://visitor-badge.glitch.me/badge?page_id=gus-caetano)
 </div>
-
 
 # Em construção

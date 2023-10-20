@@ -15,15 +15,7 @@ Sou um desenvolvedor WEB. Atualmente, estou estudando na [Trybe](https://www.bet
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width="50%" />
 
 <br>
-<br>
 
-**FRONT_END:**
-<p>
-  <img alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/react.gif" width="55" style="margin-right: 10px;" />
-  <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="55" style="margin-left: 10px;" />
-</p>
-
-- Utilizo algumas das ferramentas mais populares do mercado, como por exemplo:
 <div style="display: flex;">
   <div style="flex: 1;">
     <h3>Front-End</h3>
@@ -45,6 +37,9 @@ Sou um desenvolvedor WEB. Atualmente, estou estudando na [Trybe](https://www.bet
       <li><strong>Prisma ORM</strong>: Ferramenta desenvolvida para acelerar a produtividade no desenvolvimento back-end e a conectividade com o banco de dados.</li>
       <li><strong>Sequelize ORM</strong>: Ferramenta parecida com...</li>
       <li><strong>Express</strong>: Ferramenta utilizada no Node para a criação de APIs.</li>
+      <li><strong>Docker</strong>: O Docker é uma ferramenta utilizada para containerizar as aplicações.</li>
+      <li><strong>SQL</strong>: O SQL (Structured Query Language) é uma linguagem de programação usada para gerenciar dados em bancos de dados relacionais.</li>
+      <li><strong>PostgreSQL</strong>: O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto amplamente utilizado, conhecido por sua confiabilidade e recursos avançados.</li>
     </ul>
   </div>
 
@@ -84,5 +79,3 @@ Sou um desenvolvedor WEB. Atualmente, estou estudando na [Trybe](https://www.bet
   
   ![](https://visitor-badge.glitch.me/badge?page_id=gus-caetano)
 </div>
-
-# Em construção

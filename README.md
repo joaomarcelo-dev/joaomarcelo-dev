@@ -47,6 +47,7 @@ Sou um desenvolvedor WEB. Atualmente, estou estudando na [Trybe](https://www.bet
     <h3>Mobile</h3>
     <ul>
       <li><strong>React Native</strong>: Framework de desenvolvimento mobile que utiliza o JS como base.</li>
+      <li><strong>Kotlin</strong>: Linguagem nativa para o desenvolvimento de aplicações Android</li>      
     </ul>
   </div>
 </div>

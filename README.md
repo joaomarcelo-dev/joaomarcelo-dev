@@ -4,12 +4,6 @@
 
 Sou um desenvolvedor WEB. Atualmente, estou estudando na [Trybe](https://www.betrybe.com/). Tenho 19 anos e sou morador de Santa Inês, MA. Desde pequeno, sempre fui apaixonado por tecnologia (sempre tive muita curiosidade sobre como as coisas funcionavam 😅) e aos 14 anos decidi que iria me tornar um desenvolvedor/programador.
 
-## Links para minhas redes sociais
-
-[<img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" width="50" height="50">](https://github.com/joaomarcelo-dev?tab=repositories)
-[<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="50" height="50">](https://www.linkedin.com/in/joaomarcelo-dev/)
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="50" height="50">](https://www.instagram.com/joao_marcelo_gtr35/)
-
 ## Ferramentas e Stacks
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width="50%" />

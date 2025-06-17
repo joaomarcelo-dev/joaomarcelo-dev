@@ -2,7 +2,7 @@
 
 ## Sobre mim 😊
 
-Sou um desenvolvedor WEB. Atualmente, estou estudando na [Trybe](https://www.betrybe.com/). Tenho 19 anos e sou morador de Santa Inês, MA. Desde pequeno, sempre fui apaixonado por tecnologia (sempre tive muita curiosidade sobre como as coisas funcionavam 😅) e aos 14 anos decidi que iria me tornar um desenvolvedor/programador.
+Sou um desenvolvedor WEB. Formado na [Trybe](https://www.betrybe.com/). Tenho 21 anos e sou morador de Santa Inês, MA. Desde pequeno, sempre fui apaixonado por tecnologia (sempre tive muita curiosidade sobre como as coisas funcionavam 😅) e aos 14 anos decidi que iria me tornar um desenvolvedor/programador.
 
 ## Ferramentas e Stacks
 
